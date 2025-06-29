@@ -41,6 +41,22 @@ The EDA focused on understanding the structure, completeness, and key distributi
   `=IF(J2>=50%,"50% or more","<50%")` where J is Discount_percentage.
 * Discount bucket to categorize products into 0-25%, 26-50%, 51-75%, 76-100% using excel function
   `=IF(J2<=25%,"0-25%",IF(J2<=50%,"26-50%",IF(J2<=75%,"51-75%","76-100%")))` where J is Discount_percentage.
+## Data Analysis
 
-The cleaned and enhanced dataset had a total 1348 rows and 23 columns which enabled deeper statistical and business analysis, as well as visual storytelling through PivotTables and charts.
+Using Excel PivotTables, calculated fields, and chart visualizations, the following key analyses were performed:
+1. Average Discount by Category: Identified categories like Accessories and Cables with consistently high average discounts.
+3. Product Count by Category: Revealed that Electronics, Accessories, and Fashion are the most saturated categories.
+4. Total Reviews per Category: Highlighted customer engagement levels across product types.
+5. Highest Average Ratings: Surface-level brands and specialized products often received 4.8–5.0 ratings.
+6. Price Comparison (Actual vs Discounted): Found major price reductions in promotional categories like phone accessories.
+7. Most Reviewed Products: Flagged high-performing products with 10,000+ review counts.
+8. 50%+ Discount Products: Identified a significant cluster of products aggressively marketed with deep discounts.
+9. Rating Distribution: Found most products fall between 4.0–4.5, indicating generally favorable customer feedback.
+10. Potential Revenue by Category: Calculated as Actual Price × Review Count, showing revenue dominance by high-value categories with many reviews.
+11. Price Range Buckets: Most products were priced in the ₹200–₹500 range, indicating a mid-tier market focus.
+12. Rating vs Discount Correlation: Revealed a weak relationship—heavy discounts don’t always improve customer ratings.
+13. Products with <1,000 Reviews: Flagged long-tail inventory with low visibility or customer traction.
+14. Top Discounted Categories: Accessories & Cable segments led in aggressive pricing strategies.
+15. Top 5 Products by Combined Score: A composite metric (Rating × Review Count) highlighted the top 5 highest-performing products across both dimensions.
+16. The cleaned and enhanced dataset had a total 1348 rows and 23 columns which enabled deeper statistical and business analysis, as well as visual storytelling through PivotTables and charts.
 
