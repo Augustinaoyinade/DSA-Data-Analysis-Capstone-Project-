@@ -47,8 +47,9 @@ Using Excel PivotTables, calculated fields, and chart visualizations, the follow
 1. Average Discount Percentage by Category: Identified product category HomeImprovement with the highest average discounts percentage.
 2. Product Count by Category: Revealed that Electronics, Home&Kitchen, Computers&Accessories are the most saturated categories in decreasing order.
 3. Total Reviews per Category: Highlighted customer engagement levels across product categories with Electronics, Home&Kitchen, Computers&Accessories having the most engagements.
-4. Highest Average Ratings: Surface-level brands and specialized products often received 4.8–5.0 ratings.
-5. Price Comparison (Actual vs Discounted): Found major price reductions in promotional categories like phone accessories.
+4. Highest Average Ratings: Most of the top-rated products are electronic accessories or kitchen/home appliances.
+5. Price Comparison (Actual vs Discounted): Found major price reductions in promotional categories like Electronics.
+
 6. Most Reviewed Products: Flagged high-performing products with 10,000+ review counts.
 7. 50%+ Discount Products: Identified a significant cluster of products aggressively marketed with deep discounts.
 8. Rating Distribution: Found most products fall between 4.0–4.5, indicating generally favorable customer feedback.
