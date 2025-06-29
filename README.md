@@ -44,19 +44,19 @@ The EDA focused on understanding the structure, completeness, and key distributi
 ## Data Analysis
 
 Using Excel PivotTables, calculated fields, and chart visualizations, the following key analyses were performed:
-1. Average Discount by Category: Identified categories like Accessories and Cables with consistently high average discounts.
-3. Product Count by Category: Revealed that Electronics, Accessories, and Fashion are the most saturated categories.
-4. Total Reviews per Category: Highlighted customer engagement levels across product types.
-5. Highest Average Ratings: Surface-level brands and specialized products often received 4.8–5.0 ratings.
-6. Price Comparison (Actual vs Discounted): Found major price reductions in promotional categories like phone accessories.
-7. Most Reviewed Products: Flagged high-performing products with 10,000+ review counts.
-8. 50%+ Discount Products: Identified a significant cluster of products aggressively marketed with deep discounts.
-9. Rating Distribution: Found most products fall between 4.0–4.5, indicating generally favorable customer feedback.
-10. Potential Revenue by Category: Calculated as Actual Price × Review Count, showing revenue dominance by high-value categories with many reviews.
-11. Price Range Buckets: Most products were priced in the ₹200–₹500 range, indicating a mid-tier market focus.
-12. Rating vs Discount Correlation: Revealed a weak relationship—heavy discounts don’t always improve customer ratings.
-13. Products with <1,000 Reviews: Flagged long-tail inventory with low visibility or customer traction.
-14. Top Discounted Categories: Accessories & Cable segments led in aggressive pricing strategies.
-15. Top 5 Products by Combined Score: A composite metric (Rating × Review Count) highlighted the top 5 highest-performing products across both dimensions.
+1. Average Discount Percentage by Category: Identified product category HomeImprovement with the highest average discounts percentage.
+2. Product Count by Category: Revealed that Electronics, Home&Kitchen, Computers&Accessories are the most saturated categories in decreasing order.
+3. Total Reviews per Category: Highlighted customer engagement levels across product categories with Electronics, Home&Kitchen, Computers&Accessories having the most engagements.
+4. Highest Average Ratings: Surface-level brands and specialized products often received 4.8–5.0 ratings.
+5. Price Comparison (Actual vs Discounted): Found major price reductions in promotional categories like phone accessories.
+6. Most Reviewed Products: Flagged high-performing products with 10,000+ review counts.
+7. 50%+ Discount Products: Identified a significant cluster of products aggressively marketed with deep discounts.
+8. Rating Distribution: Found most products fall between 4.0–4.5, indicating generally favorable customer feedback.
+9. Potential Revenue by Category: Calculated as Actual Price × Review Count, showing revenue dominance by high-value categories with many reviews.
+10. Price Range Buckets: Most products were priced in the ₹200–₹500 range, indicating a mid-tier market focus.
+11. Rating vs Discount Correlation: Revealed a weak relationship—heavy discounts don’t always improve customer ratings.
+12. Products with <1,000 Reviews: Flagged long-tail inventory with low visibility or customer traction.
+13. Top Discounted Categories: Accessories & Cable segments led in aggressive pricing strategies.
+14. Top 5 Products by Combined Score: A composite metric (Rating × Review Count) highlighted the top 5 highest-performing products across both dimensions.
 16. The cleaned and enhanced dataset had a total 1348 rows and 23 columns which enabled deeper statistical and business analysis, as well as visual storytelling through PivotTables and charts.
 
