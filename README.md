@@ -41,5 +41,6 @@ The EDA focused on understanding the structure, completeness, and key distributi
   `=IF(J2>=50%,"50% or more","<50%")` where J is Discount_percentage.
 * Discount bucket to categorize products into 0-25%, 26-50%, 51-75%, 76-100% using excel function
   `=IF(J2<=25%,"0-25%",IF(J2<=50%,"26-50%",IF(J2<=75%,"51-75%","76-100%")))` where J is Discount_percentage.
+
 The cleaned and enhanced dataset had a total 1348 rows and 23 columns which enabled deeper statistical and business analysis, as well as visual storytelling through PivotTables and charts.
 
