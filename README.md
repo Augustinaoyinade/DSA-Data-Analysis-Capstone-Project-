@@ -87,7 +87,7 @@ Using Excel PivotTables, calculated fields, and chart visualizations, the follow
 Column, Line, Bar, Pie, Area and Combo
 * Organized with consistent layout and labeled headers
 
-## 🔑 Key Recommendations for Product Improvement, Marketing, and Customer Engagement
+## Recommendations for Product Improvement, Marketing, and Customer Engagement
 
 1. **Focus on High-Performing Categories**  
    Electronics, Home & Kitchen, and Computers & Accessories consistently top product count, reviews, and revenue potential. Prioritize these categories for new product launches, detailed competitive analysis, and optimized advertising.
@@ -118,6 +118,45 @@ Column, Line, Bar, Pie, Area and Combo
 
 10. **Boost Discovery of High Potential Products**  
     Use the **Rating × Review count metric** to continuously identify rising stars. Prioritize these in email campaigns, homepage spots, and seasonal promotions.
+
+## Limitations & Assumptions
+
+
+- **Assumed Revenue Calculation:**  
+  Potential revenue was estimated using `Actual Price × Rating_Count`. This does not account for product returns, abandoned carts, or discounts actually applied at checkout.
+
+- **Discount Interpretation:**  
+  Discount percentages were taken at face value without validating real-time market price changes or time-limited promo codes.
+
+- **Static Snapshot:**  
+  Data reflects a specific point in time. Seasonal trends, flash sales, and new product launches may impact future performance and should be monitored continuously.
+
+
+## Next Steps / Further Analysis
+
+1. **Time-Series Analysis:**  
+   Study product performance trends over time to identify seasonality, promotional impact, and lifecycle phases.
+
+2. **Sentiment Analysis on Reviews:**  
+   Perform text analysis on customer reviews to uncover recurring themes, complaints, or feature requests for product improvement.
+
+3. **Analyze Profitability of Discounted Products:**
+Add cost information to see if heavily discounted products are still making a profit. This helps decide if offering big discounts is a good long-term strategy.
+
+5. **Customer Segmentation:**  
+   Group buyers based on product preferences, price sensitivity, and review behavior to guide personalized marketing strategies.
+
+6. **Ad Performance Integration:**  
+   Combine data with ad impressions, click-through rates (CTR), and conversions to understand what’s driving traffic and revenue beyond organic performance.
+
+7. **Competitor Benchmarking:**  
+   Compare top products and brands against similar listings to understand what’s winning in saturated categories like Electronics.
+
+8. **Review Growth Tracking:**  
+   Monitor how quickly products accumulate reviews after launch to estimate product visibility and customer engagement.
+
+
+
 
 
 
