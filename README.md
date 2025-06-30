@@ -65,5 +65,12 @@ Using Excel PivotTables, calculated fields, and chart visualizations, the follow
 12. Products with <1,000 Reviews: 307 products fall in the 0–999 reviews range while a large number of products receive very few reviews
 13. Top Discounted Categories: Computers&Accessories led in aggressive pricing discount strategies.
 14. Top 5 Products by Rating Score: A composite metric (Rating × Number of Review) highlighted the top 5 highest-performing products across both dimensions as boAT, Samsung, AmazonBasics, Zebronics and Bajaj in descending order. These products are under the categories Computer&Accessories, Electronics and Home&Kitchen.
+## Dashboard Highlights
+* Dashboard title: Amazon Product Review Insight Dashboard
+* Used slicers for Product Category, Discount Bucket, Rating and Price Range Bucket
+* Created 14 distinct charts:
+Column, Line, Bar, Pie, Area and Combo
+* Organized with consistent layout and labeled headers
+
 
 
