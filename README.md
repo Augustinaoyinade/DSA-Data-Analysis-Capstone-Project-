@@ -143,16 +143,10 @@ Column, Line, Bar, Pie, Area and Combo
 3. **Analyze Profitability of Discounted Products:**
 Add cost information to see if heavily discounted products are still making a profit. This helps decide if offering big discounts is a good long-term strategy.
 
-5. **Customer Segmentation:**  
+4. **Customer Grouping:**  
    Group buyers based on product preferences, price sensitivity, and review behavior to guide personalized marketing strategies.
 
-6. **Ad Performance Integration:**  
-   Combine data with ad impressions, click-through rates (CTR), and conversions to understand what’s driving traffic and revenue beyond organic performance.
-
-7. **Competitor Benchmarking:**  
-   Compare top products and brands against similar listings to understand what’s winning in saturated categories like Electronics.
-
-8. **Review Growth Tracking:**  
+5. **Review Growth Tracking:**  
    Monitor how quickly products accumulate reviews after launch to estimate product visibility and customer engagement.
 
 
