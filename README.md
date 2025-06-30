@@ -1,4 +1,4 @@
-# Amazon-Product-Review-Analysis.
+![image](https://github.com/user-attachments/assets/085d1b89-1833-4106-98f8-e169c8937e64)# Amazon-Product-Review-Analysis.
 A Comprehensive Data Analysis for E-Commerce Optimization Powered by  RetailTech Insights
 ## Project Overview
 This project aims to generate data-driven recommendations from product listings and customer feedback on Amazon, helping guide product improvement, marketing strategy, and customer engagement tactics.
@@ -47,16 +47,15 @@ Using Excel PivotTables, calculated fields, and chart visualizations, the follow
 1. Average Discount Percentage by Category: Identified product category HomeImprovement with the highest average discounts percentage.
 2. Product Count by Category: Revealed that Electronics, Home&Kitchen, Computers&Accessories are the most saturated categories in decreasing order.
 3. Total Reviews per Category: Highlighted customer engagement levels across product categories with Electronics, Home&Kitchen, Computers&Accessories having the most engagements.
-4. Highest Average Ratings: Most of the top-rated products are electronic accessories or kitchen/home appliances.
-5. Price Comparison (Actual vs Discounted): Found major price reductions in promotional categories like Electronics.
-
-6. Most Reviewed Products: Flagged high-performing products with 10,000+ review counts.
-7. 50%+ Discount Products: Identified a significant cluster of products aggressively marketed with deep discounts.
-8. Rating Distribution: Found most products fall between 4.0–4.5, indicating generally favorable customer feedback.
-9. Potential Revenue by Category: Calculated as Actual Price × Review Count, showing revenue dominance by high-value categories with many reviews.
-10. Price Range Buckets: Most products were priced in the ₹200–₹500 range, indicating a mid-tier market focus.
-11. Rating vs Discount Correlation: Revealed a weak relationship—heavy discounts don’t always improve customer ratings.
-12. Products with <1,000 Reviews: Flagged long-tail inventory with low visibility or customer traction.
+4. Highest Average Ratings: Most of the top-rated products are computer accessories and home&kitchen appliances.
+5. Price Comparison (Actual vs Discounted): Found major price reductions in product category Electronics.
+6. Most Reviewed Products: The most reviewed products are boAT, Samsung and Zebronics which are under the categories Computers&Accessories and Electronics.
+7. 50%+ Discount Products: Identified a significant count of products marketed with discounts of 50% or more (660 products), however products with <50% were more (688 products).
+8. Rating Distribution: Found most products fall between 4.0–4.3, indicating generally favorable customer feedback.
+9. Potential Revenue by Category: Calculated as Actual Price × Rating Count, showing revenue dominance by high-value categories Electronics, Computers&Accessories, Home&Kitchen with most number of reviews.
+10. Price Range Buckets: Most products were priced in the >₹500 range, indicating a top-tier market focus.
+11. Rating vs Discount Relationship: Revealed a weak relationship between heavy discounts and product rating with rating reducing with increase in dicount bucket. this shows discounts don’t always improve customer ratings.
+12. Products with <1,000 Reviews: 307 products fall in the 0–999 reviews range while a large number of products receive very few reviews
 13. Top Discounted Categories: Accessories & Cable segments led in aggressive pricing strategies.
 14. Top 5 Products by Combined Score: A composite metric (Rating × Review Count) highlighted the top 5 highest-performing products across both dimensions.
 16. The cleaned and enhanced dataset had a total 1348 rows and 23 columns which enabled deeper statistical and business analysis, as well as visual storytelling through PivotTables and charts.
