@@ -1,9 +1,13 @@
 # Amazon Product Review Analysis.
 A Comprehensive Data Analysis for E-Commerce Optimization Powered by  RetailTech Insights
+- **By**: Junior Data Analyst 
+- **Date**: June 2025
 
+-----
 ## Project Overview
 This project aims to generate data-driven recommendations from product listings and customer feedback on Amazon, helping guide product improvement, marketing strategy, and customer engagement tactics.
 
+---------------
 ## Data Source
 This data was scraped from Amazon product pages with a total of 1,465 rows and 16 columns.
 * **Product details:**
@@ -19,13 +23,14 @@ This data was scraped from Amazon product pages with a total of 1,465 rows and 1
   * User_id
   * User_name
 * **Ratings and Review**
-
+  
+-----
 ## Tools Used and Their Purpose
 * **Microsoft Excel:** Data cleaning, calculations, pivot tables, chart creation.
 * **PivotTables:** Aggregating data for reviews, discounts, ratings, and price comparisons.
 * **Excel Formulas:** Derived metrics like Number of Review, Price Range Buckets, Discount Bucket, Potential revenue, 50% Discount marker.
 * **Excel Charts & Slicers:** Visualization and dynamic filtering in the dashboard.
-  
+------ 
 ## Exploratory Data Analysis (EDA)
 ### Data Cleaning & Preparation
 The EDA focused on understanding the structure, completeness, and key distributions within the dataset. The steps included:
@@ -49,6 +54,7 @@ The EDA focused on understanding the structure, completeness, and key distributi
 
 The cleaned and enhanced dataset had a total 1348 rows and 23 columns which enabled deeper statistical and business analysis, as well as visual storytelling through PivotTables and charts.
 
+------
 ## Data Analysis
 Using Excel PivotTables, calculated fields, and chart visualizations, the following key analyses were performed:
 
@@ -80,13 +86,15 @@ Using Excel PivotTables, calculated fields, and chart visualizations, the follow
 
 14. **Top 5 Products by Rating Score:** A composite metric (Rating × Number of Review) highlighted the top 5 highest-performing products across both dimensions as boAT, Samsung, AmazonBasics, Zebronics and Bajaj in descending order. These products are under the categories Computer&Accessories, Electronics and Home&Kitchen.
 
+------
 ## Dashboard Highlights
 * **Dashboard title: Amazon Product Review Insight Dashboard**
 * Used slicers for Product Category, Discount Bucket, Rating and Price Range Bucket
 * Created 14 distinct charts:
 Column, Line, Bar, Pie, Area and Combo
 * Organized with consistent layout and labeled headers
-
+  
+------
 ## Recommendations for Product Improvement, Marketing, and Customer Engagement
 
 1. **Focus on High-Performing Categories**  
@@ -118,9 +126,9 @@ Column, Line, Bar, Pie, Area and Combo
 
 10. **Boost Discovery of High Potential Products**  
     Use the **Rating × Review count metric** to continuously identify rising stars. Prioritize these in email campaigns, homepage spots, and seasonal promotions.
-
+    
+------
 ## Limitations & Assumptions
-
 
 - **Assumed Revenue Calculation:**  
   Potential revenue was estimated using `Actual Price × Rating_Count`. This does not account for product returns, abandoned carts, or discounts actually applied at checkout.
@@ -130,8 +138,8 @@ Column, Line, Bar, Pie, Area and Combo
 
 - **Static Snapshot:**  
   Data reflects a specific point in time. Seasonal trends, flash sales, and new product launches may impact future performance and should be monitored continuously.
-
-
+  
+------
 ## Further Analysis
 
 1. **Time-Series Analysis:**  
@@ -148,7 +156,8 @@ Add cost information to see if heavily discounted products are still making a pr
 
 5. **Review Growth Tracking:**  
    Monitor how quickly products accumulate reviews after launch to estimate product visibility and customer engagement.
-
+   
+-------
 ##  Conclusion
 
 The Amazon Product Review Analysis has uncovered strategic insights into product performance, customer engagement, and discount effectiveness within a highly competitive e-commerce environment.
@@ -161,8 +170,4 @@ Most products fall into premium pricing (>₹500), indicating the importance of 
 
 Overall, this analysis provides a roadmap for **data-driven decision-making**—from optimizing listings and pricing to enhancing marketing and customer engagement strategies. The findings should guide e-commerce teams to focus on long-term value creation rather than short-term promotional tactics.
 
-##  Prepared By
-
-**Junior Data Analyst**  
-**RetailTech Insights** 
---------
+------
